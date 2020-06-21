@@ -1,6 +1,4 @@
-#read pdf given a path, and report text&warnings
-#for encrypted pdfs: need to install qpdf and set sys. environmental variables。用qpdf这个命令行软件，来解密被加密了的PDF文件。
-#from https://github.com/pdfminer/pdfminer.six/tree/master/pdfminer/cmap to C:\Anaconda3\Lib\site-packages\pdfminer3k\cmap。扩大pdfminer能够识别的文字的范围（例如生僻字）。
+#尝试一下修改功能
 from pdfminer.pdfparser import PDFParser,PDFDocument
 from pdfminer.pdfinterp import PDFResourceManager, PDFPageInterpreter
 from pdfminer.converter import PDFPageAggregator
