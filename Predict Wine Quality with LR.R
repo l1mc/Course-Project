@@ -1,4 +1,4 @@
-# Predict Wine Quality
+# Predict Wine Quality with Linear Regression
 
 # load the data
 setwd('D:/')
