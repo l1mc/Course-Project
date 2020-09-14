@@ -9,7 +9,7 @@
 ## 1. Wine Quality
 * The data set is from the [UCI Data Repository](https://archive.ics.uci.edu/ml/datasets/Wine+Quality).
 * With this data set, I practiced using [Linear Regression](https://github.com/l1mc/Machine-Learning-for-Business-CourseProject/blob/master/Predict%20Wine%20Quality%20with%20LR.R) to fit and predict. 
-* Also, I practiced how to use the [kNN model and Logistic model](https://github.com/l1mc/Machine-Learning-for-Business-CourseProject/blob/master/Wine%20Quality%20with%20kNN%20and%20Logit.R).  
+* Also, The data set helped me practiced how to use the [kNN model and Logistic model](https://github.com/l1mc/Machine-Learning-for-Business-CourseProject/blob/master/Wine%20Quality%20with%20kNN%20and%20Logit.R).  
 
 ## 2. A data set made up by the professor
 * This data set was made by the professor using a function with X and the power of X as arguments.
